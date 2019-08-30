@@ -1,0 +1,22 @@
+CompanyName,CategoryName,TotalCost,,,,,,,,,,,,,,
+Aux joyeux eccl�siastiques,Beverages,153691.275,,,,,,,,,,,,,,
+Formaggi Fortini s.r.l.,Dairy Products,48225.165,,,,,,,,,,,,,,
+For�ts d'�rables,Confections,47234.97,,,,,Sum of TotalCost,Column Labels,,,,,,,,
+For�ts d'�rables,Condiments,14352.6,,,,,Row Labels,Beverages,Condiments,Confections,Dairy Products,Grains/Cereals,Meat/Poultry,Produce,Seafood,Grand Total
+"G'day, Mate",Produce,41819.65,,,,,Aux joyeux eccl�siastiques,153691.275,,,,,,,,153691.275
+"G'day, Mate",Meat/Poultry,20574.17,,,,,For�ts d'�rables,,14352.6,47234.97,,,,,,61587.57
+"G'day, Mate",Grains/Cereals,3232.95,,,,,Formaggi Fortini s.r.l.,,,,48225.165,,,,,48225.165
+Gai p�turage,Dairy Products,117981.18,,,,,Gai p�turage,,,,117981.18,,,,,117981.18
+Norske Meierier,Dairy Products,43141.51,,,,,"G'day, Mate",,,,,3232.95,20574.17,41819.65,,65626.77
+Pasta Buttini s.r.l.,Grains/Cereals,50254.61,,,,,Norske Meierier,,,,43141.51,,,,,43141.51
+"Pavlova, Ltd.",Meat/Poultry,32698.38,,,,,Pasta Buttini s.r.l.,,,,,50254.61,,,,50254.61
+"Pavlova, Ltd.",Seafood,29171.875,,,,,"Pavlova, Ltd.",10672.65,16701.095,17215.7755,,,32698.38,,29171.875,106459.7755
+"Pavlova, Ltd.",Confections,17215.7755,,,,,Plutzer Lebensmittelgro�m�rkte AG,8177.49,9171.63,,,21957.9675,80368.672,25696.64,,145372.3995
+"Pavlova, Ltd.",Condiments,16701.095,,,,,"Specialty Biscuits, Ltd.",,,46243.98,,,,,,46243.98
+"Pavlova, Ltd.",Beverages,10672.65,,,,,Grand Total,172541.415,40225.325,110694.7255,209347.855,75445.5275,133641.222,67516.29,29171.875,838584.235
+Plutzer Lebensmittelgro�m�rkte AG,Meat/Poultry,80368.672,,,,,,,,,,,,,,
+Plutzer Lebensmittelgro�m�rkte AG,Produce,25696.64,,,,,,,,,,,,,,
+Plutzer Lebensmittelgro�m�rkte AG,Grains/Cereals,21957.9675,,,,,,,,,,,,,,
+Plutzer Lebensmittelgro�m�rkte AG,Condiments,9171.63,,,,,,,,,,,,,,
+Plutzer Lebensmittelgro�m�rkte AG,Beverages,8177.49,,,,,,,,,,,,,,
+"Specialty Biscuits, Ltd.",Confections,46243.98,,,,,,,,,,,,,,
